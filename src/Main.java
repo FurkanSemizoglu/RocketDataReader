@@ -12,8 +12,10 @@ public class Main {
         JSONParser parser = new JSONParser();
      //   JSONObject j = new JSONObject();
 
-        CircularQueue q = new CircularQueue(45);
+
         File file = new File( "./TR_SuperLeague_19_20.txt");
+
+        CircularQueue q = new CircularQueue(ObjectLength(parser));
 
         try {
             JSONArray a = (JSONArray) parser.parse(new FileReader("./data.json"));
@@ -54,22 +56,17 @@ public class Main {
 
     static int ObjectLength(JSONParser parser){
 
+        int numOfData = 0;
         try {
             JSONArray a = (JSONArray) parser.parse(new FileReader("./data.json"));
             for (Object o : a) {
-                //  System.out.println(o);
-                JSONObject data = (JSONObject) o;
-
-                long sicaklik = (long) data.get("sicaklik");
-                long basinc = (long) data.get("basinc");
-                long egim = (long) data.get("eğim");
-
-                System.out.println("Sicaklik: " + sicaklik + ", Basinc: " + basinc + ", Eğim: " + egim);
+                numOfData++;
 
             }
         }catch (Exception e){
             e.printStackTrace();
         }
-        return 0;
+
+        return numOfData;
     }
 }
