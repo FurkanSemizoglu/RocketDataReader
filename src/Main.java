@@ -27,6 +27,8 @@ public class Main {
                 long basinc = (long) data.get("basinc");
                 long egim = (long) data.get("eğim");
 
+
+
                 System.out.println("Sicaklik: " + sicaklik + ", Basinc: " + basinc + ", Eğim: " + egim);
 
             }
@@ -34,23 +36,7 @@ public class Main {
             e.printStackTrace();
         }
 
-/*
-        try {
-            Object obj = parser.parse(new FileReader("./data.json"));
 
-            JSONObject jsonObject =  (JSONObject) obj;
-
-            String sıcaklık = (String) jsonObject.get("sicaklik");
-            System.out.println(sıcaklık);
-        }catch (Exception e){
-             e.printStackTrace();
-        }*/
-
-    //    BufferedReader reader;
-    //    reader = new BufferedReader(new FileReader(file));
-    //    String line = reader.readLine();
-
-      //  line = reader.readLine();
 
     }
 
