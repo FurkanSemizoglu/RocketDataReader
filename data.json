@@ -1,0 +1,2502 @@
+[
+	{
+		"sicaklik": 27,
+		"basinc": 943,
+		"eğim": 120
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 832,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 522,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 781,
+		"eğim": 93
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 644,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 778,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 603,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 669,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 655,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 869,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 606,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 866,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 834,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 618,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 699,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 675,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 1030,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 839,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 585,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 625,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 916,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 641,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 822,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 922,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 989,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 826,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 595,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 742,
+		"eğim": 114
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 575,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 957,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 596,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 1075,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 939,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 605,
+		"eğim": 107
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 1019,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 967,
+		"eğim": 107
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 803,
+		"eğim": 114
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 865,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 559,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 681,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 983,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 623,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 973,
+		"eğim": 96
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 627,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 714,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 1056,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 683,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 1051,
+		"eğim": 96
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 906,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 550,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 936,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 559,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 831,
+		"eğim": 96
+	},
+	{
+		"sicaklik": 30,
+		"basinc": 742,
+		"eğim": 114
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 859,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 801,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 865,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 1048,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 959,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 633,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 971,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 561,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 857,
+		"eğim": 120
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 606,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 1088,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 558,
+		"eğim": 118
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 634,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 636,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 1008,
+		"eğim": 107
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 958,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 836,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 705,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 581,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 10,
+		"basinc": 1083,
+		"eğim": 100
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 838,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 1003,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 705,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 954,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 1057,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 1065,
+		"eğim": 100
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 623,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 960,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 812,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 940,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 540,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 911,
+		"eğim": 100
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 869,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 529,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 812,
+		"eğim": 93
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 868,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 555,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 539,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 641,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 1083,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 10,
+		"basinc": 830,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 719,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 655,
+		"eğim": 120
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 828,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 765,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 692,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 869,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 532,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 566,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 708,
+		"eğim": 114
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 873,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 870,
+		"eğim": 102
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 630,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 983,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 30,
+		"basinc": 953,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 628,
+		"eğim": 80
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 600,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 734,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 684,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 596,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 688,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 791,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 547,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 741,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 1063,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 970,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 549,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 1016,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 748,
+		"eğim": 118
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 905,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 899,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 835,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 811,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 704,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 639,
+		"eğim": 114
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 602,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 686,
+		"eğim": 80
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 578,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 653,
+		"eğim": 93
+	},
+	{
+		"sicaklik": 10,
+		"basinc": 712,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 687,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 910,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 511,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 940,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 1032,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 856,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 748,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 978,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 960,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 882,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 889,
+		"eğim": 114
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 1032,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 810,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 849,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 844,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 968,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 986,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 677,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 1087,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 683,
+		"eğim": 114
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 948,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 573,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 614,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 609,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 503,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 556,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 940,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 814,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 773,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 588,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 773,
+		"eğim": 107
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 1100,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 882,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 622,
+		"eğim": 108
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 668,
+		"eğim": 108
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 919,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 1031,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 1029,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 683,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 654,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 573,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 532,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 558,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 883,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 1062,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 30,
+		"basinc": 784,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 610,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 1071,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 570,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 986,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 748,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 671,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 722,
+		"eğim": 107
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 1035,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 663,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 988,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 676,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 783,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 1018,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 1012,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 762,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 580,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 622,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 827,
+		"eğim": 96
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 745,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 742,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 564,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 851,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 596,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 1021,
+		"eğim": 100
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 585,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 500,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 903,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 1066,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 796,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 811,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 10,
+		"basinc": 667,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 828,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 1004,
+		"eğim": 118
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 1090,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 912,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 900,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 548,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 1095,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 902,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 948,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 527,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 695,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 510,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 899,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 916,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 1097,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 774,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 524,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 507,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 1056,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 608,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 1042,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 532,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 618,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 978,
+		"eğim": 108
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 554,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 695,
+		"eğim": 120
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 1036,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 724,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 921,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 972,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 653,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 648,
+		"eğim": 102
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 891,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 637,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 847,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 760,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 884,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 571,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 1012,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 1077,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 645,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 933,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 754,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 722,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 605,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 653,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 546,
+		"eğim": 96
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 709,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 807,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 671,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 846,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 565,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 814,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 926,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 951,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 1093,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 614,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 1065,
+		"eğim": 93
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 1088,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 736,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 626,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 861,
+		"eğim": 107
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 856,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 623,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 906,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 927,
+		"eğim": 108
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 926,
+		"eğim": 118
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 618,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 960,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 807,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 726,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 1068,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 517,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 906,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 969,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 727,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 1068,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 737,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 948,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 891,
+		"eğim": 120
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 748,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 618,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 1054,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 689,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 809,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 1075,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 1008,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 616,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 961,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 882,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 805,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 711,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 607,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 738,
+		"eğim": 80
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 515,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 628,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 1064,
+		"eğim": 80
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 592,
+		"eğim": 120
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 724,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 732,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 575,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 750,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 704,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 1025,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 905,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 644,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 898,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 1087,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 679,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 554,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 1004,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 876,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 859,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 633,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 973,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 519,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 717,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 506,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 30,
+		"basinc": 637,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 757,
+		"eğim": 118
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 811,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 870,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 671,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 587,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 10,
+		"basinc": 589,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 928,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 770,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 30,
+		"basinc": 839,
+		"eğim": 108
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 604,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 929,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 933,
+		"eğim": 108
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 910,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 903,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 797,
+		"eğim": 102
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 656,
+		"eğim": 120
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 695,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 584,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 539,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 820,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 509,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 871,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 921,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 507,
+		"eğim": 118
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 967,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 682,
+		"eğim": 102
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 861,
+		"eğim": 98
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 711,
+		"eğim": 108
+	},
+	{
+		"sicaklik": 30,
+		"basinc": 903,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 863,
+		"eğim": 90
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 764,
+		"eğim": 114
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 905,
+		"eğim": 118
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 688,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 525,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 598,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 759,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 789,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 503,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 709,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 730,
+		"eğim": 96
+	},
+	{
+		"sicaklik": 30,
+		"basinc": 755,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 970,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 10,
+		"basinc": 1006,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 691,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 577,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 1024,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 1099,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 751,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 786,
+		"eğim": 108
+	},
+	{
+		"sicaklik": 30,
+		"basinc": 847,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 959,
+		"eğim": 118
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 1053,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 585,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 606,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 1015,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 632,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 981,
+		"eğim": 100
+	},
+	{
+		"sicaklik": 30,
+		"basinc": 545,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 827,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 506,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 802,
+		"eğim": 107
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 952,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 564,
+		"eğim": 93
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 598,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 980,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 803,
+		"eğim": 93
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 907,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 1073,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 511,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 926,
+		"eğim": 93
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 560,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 631,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 826,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 931,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 519,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 635,
+		"eğim": 107
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 832,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 1012,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 638,
+		"eğim": 108
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 1036,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 689,
+		"eğim": 114
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 1079,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 824,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 615,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 706,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 708,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 10,
+		"basinc": 876,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 798,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 643,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 1096,
+		"eğim": 120
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 1060,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 823,
+		"eğim": 112
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 907,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 726,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 699,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 536,
+		"eğim": 100
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 944,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 507,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 585,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 513,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 893,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 731,
+		"eğim": 93
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 824,
+		"eğim": 95
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 1078,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 714,
+		"eğim": 80
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 550,
+		"eğim": 91
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 870,
+		"eğim": 94
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 840,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 616,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 566,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 513,
+		"eğim": 118
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 1048,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 28,
+		"basinc": 535,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 536,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 679,
+		"eğim": 106
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 925,
+		"eğim": 80
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 735,
+		"eğim": 105
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 601,
+		"eğim": 92
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 718,
+		"eğim": 119
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 1018,
+		"eğim": 89
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 605,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 1055,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 799,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 26,
+		"basinc": 579,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 1054,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 30,
+		"basinc": 907,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 10,
+		"basinc": 998,
+		"eğim": 107
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 569,
+		"eğim": 120
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 1030,
+		"eğim": 86
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 693,
+		"eğim": 93
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 880,
+		"eğim": 96
+	},
+	{
+		"sicaklik": 22,
+		"basinc": 1015,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 1093,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 1097,
+		"eğim": 83
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 836,
+		"eğim": 116
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 682,
+		"eğim": 99
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 558,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 507,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 981,
+		"eğim": 108
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 534,
+		"eğim": 88
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 1085,
+		"eğim": 81
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 502,
+		"eğim": 85
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 516,
+		"eğim": 82
+	},
+	{
+		"sicaklik": 18,
+		"basinc": 696,
+		"eğim": 87
+	},
+	{
+		"sicaklik": 12,
+		"basinc": 790,
+		"eğim": 102
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 782,
+		"eğim": 104
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 958,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 534,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 24,
+		"basinc": 922,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 16,
+		"basinc": 886,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 13,
+		"basinc": 776,
+		"eğim": 101
+	},
+	{
+		"sicaklik": 21,
+		"basinc": 589,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 15,
+		"basinc": 561,
+		"eğim": 103
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 899,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 967,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 25,
+		"basinc": 713,
+		"eğim": 96
+	},
+	{
+		"sicaklik": 10,
+		"basinc": 811,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 699,
+		"eğim": 115
+	},
+	{
+		"sicaklik": 23,
+		"basinc": 1093,
+		"eğim": 109
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 729,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 27,
+		"basinc": 906,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 14,
+		"basinc": 616,
+		"eğim": 111
+	},
+	{
+		"sicaklik": 20,
+		"basinc": 770,
+		"eğim": 84
+	},
+	{
+		"sicaklik": 19,
+		"basinc": 803,
+		"eğim": 113
+	},
+	{
+		"sicaklik": 11,
+		"basinc": 839,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 912,
+		"eğim": 97
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 836,
+		"eğim": 117
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 924,
+		"eğim": 110
+	},
+	{
+		"sicaklik": 17,
+		"basinc": 749,
+		"eğim": 93
+	},
+	{
+		"sicaklik": 29,
+		"basinc": 1062,
+		"eğim": 94
+	}
+]
