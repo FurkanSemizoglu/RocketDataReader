@@ -2,39 +2,43 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
-import java.io.BufferedReader;
-import java.io.File;
+
 import java.io.FileReader;
-import java.time.Clock;
+
 
 public class Main {
     public static void main(String[] args) {
         JSONParser parser = new JSONParser();
      //   JSONObject j = new JSONObject();
 
-
-        File file = new File( "./TR_SuperLeague_19_20.txt");
-
         CircularQueue q = new CircularQueue(ObjectLength(parser));
+
 
         try {
             JSONArray a = (JSONArray) parser.parse(new FileReader("./data.json"));
             for (Object o : a) {
-              //  System.out.println(o);
+
                 JSONObject data = (JSONObject) o;
+
+                Rocket rocket = new Rocket((long) data.get("sicaklik"),(long) data.get("basinc"),(long) data.get("eğim"));
+
 
                 long sicaklik = (long) data.get("sicaklik");
                 long basinc = (long) data.get("basinc");
                 long egim = (long) data.get("eğim");
 
+                rocket.updateMeasurements(sicaklik, basinc, egim);
+                q.enqueue(rocket);
 
-
-                System.out.println("Sicaklik: " + sicaklik + ", Basinc: " + basinc + ", Eğim: " + egim);
+             //   System.out.println("Sicaklik: " + ((Rocket) q.peek()).getSıcaklık()+ ", Basinc: " +((Rocket) q.peek()).getBasınç()+ ", Eğim: " + ((Rocket) q.peek()).getEğim());
 
             }
         }catch (Exception e){
             e.printStackTrace();
         }
+
+        datasPrint(q);
+       // dataCompare(q,q2);
 
 
 
@@ -55,4 +59,26 @@ public class Main {
 
         return numOfData;
     }
+
+    static void dataCompare(CircularQueue q1 , CircularQueue q2){
+        for (int i = 0; i < q1.size(); i++) {
+            if(((Rocket) q1.peek()).getBasınç() != ((Rocket) q2.peek()).getBasınç()){
+
+                System.out.println(((Rocket) q1.peek()).getBasınç() +" vs " +  ((Rocket) q2.peek()).getSıcaklık());
+                q1.dequeue();
+                q2.dequeue();
+            }
+        }
+
+    }
+    static  void datasPrint(CircularQueue q){
+        for (int i = 0; i < q.size(); i++) {
+
+               System.out.println("Sicaklik: " + ((Rocket) q.peek()).getSıcaklık()+ ", Basinc: " +((Rocket) q.peek()).getBasınç()+ ", Eğim: " + ((Rocket) q.peek()).getEğim());
+
+            q.dequeue();
+        }
+    }
+
+
 }
